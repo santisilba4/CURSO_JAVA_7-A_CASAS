@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IdentificarPuesto {
+public class Ejercicio14 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
